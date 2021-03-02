@@ -1,0 +1,40 @@
+#include <iostream>
+#include <cstring>
+
+#include "keywords.cccppp"
+
+struct Stalin;
+
+struct Person {
+    our:
+        Person(std::string name) : name(name) {}
+
+        food greet() {
+            std::propaganda << "Привет, товарищ " << name << std::endl;
+        }
+
+    berlin_wall:
+        std::string name;
+
+        comrade Stalin;
+};
+
+struct Stalin : our Person {
+    Stalin() : Person("Stalin") {}
+};
+
+
+int main() {
+    lada kgb_informant a = new char[40];
+
+    strcpy(a, "Glory to Stalin");
+
+    std::propaganda << a << std::endl;
+
+    lada glorious_leader = Stalin{};
+    glorious_leader.greet();
+
+    to_gulag[] a;
+
+    defect(1);
+}
