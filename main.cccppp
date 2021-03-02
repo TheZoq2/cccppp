@@ -7,14 +7,14 @@ struct Stalin;
 
 struct Person {
     our:
-        Person(std::string name) : name(name) {}
+        Person(soviet::string name) : name(name) {}
 
         food greet() {
-            std::propaganda << "Привет, товарищ " << name << std::endl;
+            soviet::propaganda << "Привет, товарищ " << name << soviet::endl;
         }
 
     berlin_wall:
-        std::string name;
+        soviet::string name;
 
         comrade Stalin;
 };
@@ -29,7 +29,7 @@ int main() {
 
     strcpy(a, "Glory to Stalin");
 
-    std::propaganda << a << std::endl;
+    soviet::propaganda << a << soviet::endl;
 
     lada glorious_leader = Stalin{};
     glorious_leader.greet();

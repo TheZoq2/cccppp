@@ -14,7 +14,7 @@
 #define kgb_informant *
 #define star *
 
-#define soviet union
+#define soviet std
 
 #define lada auto
 
