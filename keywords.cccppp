@@ -19,11 +19,11 @@
 #define lada auto
 
 #define propaganda cout
+#define interrogate getline
 
 #define defect exit
 
 #define namecosmos namespace
-
 
 // #define hel int
 // #define hufvud main
