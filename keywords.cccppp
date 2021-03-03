@@ -10,6 +10,7 @@
 
 #define comrade friend
 #define to_gulag delete
+#define report return
 
 #define kgb_informant *
 #define star *
@@ -18,9 +19,11 @@
 
 #define lada auto
 
+#define interrogate cin
 #define propaganda cout
-#define interrogate getline
+#define diplomacy cerr
 
+#define confiscate free
 #define defect exit
 
 #define namecosmos namespace
