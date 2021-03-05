@@ -5,7 +5,7 @@
 
 struct Stalin;
 
-struct Person {
+bourgeoisie Person {
     our:
         Person(soviet::string name) : name(name) {}
 
@@ -17,6 +17,9 @@ struct Person {
         soviet::string name;
 
         comrade Stalin;
+
+    capitalist_pig:
+        ruble money{ 5.75f };
 };
 
 struct Stalin : our Person {
