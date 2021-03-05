@@ -1,11 +1,11 @@
 #ifndef H_CCCPPP
 #define H_CCCPPP
 
-#define class
+#define bourgeoisie class
 
 #define our public
 #define berlin_wall protected
-#define private
+#define capitalist_pig private
 #define food void
 
 #define comrade friend
@@ -17,6 +17,8 @@
 #define soviet std
 
 #define lada auto
+
+#define ruble float
 
 #define propaganda cout
 #define interrogate getline
