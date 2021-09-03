@@ -8,7 +8,9 @@
 3.Enjoy the benefits of a communist programming language
 
 Extras:
-IDE's sadly are against communism and do not support color coding on .ccpc files, to combat this we have introduced 'ccpc-convert' and 'ccpc-unconvert'
+IDE's sadly are against communism and do not support color coding on .ccpc files.
+THAT IS WHY WE DO NOT USE IDE'S
+To help combat IDE'S, we have introduced 'ccpc-convert' and 'ccpc-unconvert'
 
 They do exactly what they say, convert from c to ccpc using 'ccpc-convert' and unconvvert with 'ccpc-unconvert'
 
