@@ -1,4 +1,4 @@
-#include "ccpc_documents/mandatory_ccpc_ideas.h"
+#include "mandatory_ccpc_ideas.h"
 
 int main(void){
 
