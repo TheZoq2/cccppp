@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <stdarg.h>
 
-#define private anti_ccpc
+#define anti_ccpc private
 #define no_food void
 
 #define comrades struct
@@ -35,7 +35,7 @@ int publish_propaganda(const char *format, ...){
     return done;
 }
 //Free but communist
-void release_from_gulag(void *ptr){
+void release_from_gulag_and_eliminate(void *ptr){
     free(ptr);
 }
 #endif
