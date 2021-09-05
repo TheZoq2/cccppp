@@ -1,0 +1,32 @@
+#include "mandatory_ccpc_ideas.h"
+
+int main(void){
+    
+    int russoren = 0;
+    
+    if(russoren == 0){
+    
+        our_string message_from_our_leader = "BUILT FOR THE GLORIOUS LEADER OF THE COMMUNIST C PARTY\n";
+
+        publish_propaganda(message_from_our_leader);  
+
+        our_int one_glorious_number = 69;
+        our_int anoter_glorious_number = 420;
+
+        publish_propaganda("WE TAKE OUR EDUCATION VERY SERIOUSLY\nDID YOU KNOW %i + %i = %i\n", one_glorious_number, anoter_glorious_number, one_glorious_number+anoter_glorious_number);
+        
+    }
+    
+    if(russoren == 1){
+        our_string message_from_our_leader = "ПОСТРОЕН ДЛЯ СЛАВНОГО ЛИДЕРА КОММУНИСТИЧЕСКОЙ ПАРТИИ С\n";
+
+        publish_propaganda(message_from_our_leader);  
+
+        our_int one_glorious_number = 69;
+        our_int anoter_glorious_number = 420;
+
+        publish_propaganda("МЫ ОЧЕНЬ СЕРЬЕЗНО ОТНОСЯ К НАШЕМУ ОБРАЗОВАНИЮ\nDID ВЫ ЗНАЕТЕ %i + %i = %i\n", one_glorious_number, anoter_glorious_number, one_glorious_number+anoter_glorious_number);
+    }
+    
+    exit(0);
+}
