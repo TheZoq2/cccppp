@@ -18,4 +18,4 @@ REMEMBER, C IS AN IMPOSTOR CAPITALIST LANGUAGE, DO NOT COMPILE IT
 ### For C++
 Idk
 
--why the fuck did i spend 2 hours on this, guess i learned more about shellscripting
+OUR LANG
