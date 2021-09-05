@@ -20,7 +20,7 @@
 
 
 #define our_length sizeof
-#define to_gulag malloc
+#define recruit_to_cause malloc
 #define report return
 
 #define defect exit
